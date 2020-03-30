@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3FB0A2F0DB78DBA807D221F5B6FA07251A0BDBF1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "71D2B5D42F9EB1894E3667AB5EAF74F3FC42926E" : 0,
+    "6506C40088E8E4A0A4B78F60F1C47F578DC22399" : 0,
+    "3FB0A2F0DB78DBA807D221F5B6FA07251A0BDBF1" : 0,
+    "B58529A2A790C77509F5A0F293573D3DCEE66211" : 0,
+    "224F7D2398D89A92AF94A84A748F5682D5C820DC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "01BBC68C-8C2A-4EFD-BDFB-68929D70F8B5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "71D2B5D42F9EB1894E3667AB5EAF74F3FC42926E" : "sourcekit-lsp\/DerivedData\/sourcekit-lsp\/SourcePackages\/checkouts\/indexstore-db\/",
+    "6506C40088E8E4A0A4B78F60F1C47F578DC22399" : "sourcekit-lsp\/DerivedData\/sourcekit-lsp\/SourcePackages\/checkouts\/swift-tools-support-core\/",
+    "3FB0A2F0DB78DBA807D221F5B6FA07251A0BDBF1" : "sourcekit-lsp\/",
+    "B58529A2A790C77509F5A0F293573D3DCEE66211" : "sourcekit-lsp\/DerivedData\/sourcekit-lsp\/SourcePackages\/checkouts\/swift-llbuild\/",
+    "224F7D2398D89A92AF94A84A748F5682D5C820DC" : "sourcekit-lsp\/DerivedData\/sourcekit-lsp\/SourcePackages\/checkouts\/swift-package-manager\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/apple\/swift-package-manager.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "224F7D2398D89A92AF94A84A748F5682D5C820DC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:mtdev2\/sourcekit-lsp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3FB0A2F0DB78DBA807D221F5B6FA07251A0BDBF1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/apple\/swift-tools-support-core.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6506C40088E8E4A0A4B78F60F1C47F578DC22399"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/apple\/indexstore-db.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71D2B5D42F9EB1894E3667AB5EAF74F3FC42926E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/apple\/swift-llbuild.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B58529A2A790C77509F5A0F293573D3DCEE66211"
+    }
+  ]
+}

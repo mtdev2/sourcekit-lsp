@@ -1,0 +1,92 @@
+---
+path:            '/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule'
+dependencies:
+  - mtime:           1580725571000000000
+    path:            '/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule'
+    size:            9530900
+  - mtime:           1575583788000000000
+    path:            'usr/lib/swift/shims/module.modulemap'
+    size:            1992
+    sdk_relative:    true
+  - mtime:           1580725046000000000
+    path:            'usr/lib/swift/shims/AssertionReporting.h'
+    size:            2624
+    sdk_relative:    true
+  - mtime:           1580725045000000000
+    path:            'usr/lib/swift/shims/SwiftStdint.h'
+    size:            2895
+    sdk_relative:    true
+  - mtime:           1580711071000000000
+    path:            'usr/lib/swift/shims/Visibility.h'
+    size:            5887
+    sdk_relative:    true
+  - mtime:           1580725044000000000
+    path:            'usr/lib/swift/shims/CoreFoundationShims.h'
+    size:            2449
+    sdk_relative:    true
+  - mtime:           1580725046000000000
+    path:            'usr/lib/swift/shims/FoundationShims.h'
+    size:            2239
+    sdk_relative:    true
+  - mtime:           1580725045000000000
+    path:            'usr/lib/swift/shims/GlobalObjects.h'
+    size:            2911
+    sdk_relative:    true
+  - mtime:           1580725045000000000
+    path:            'usr/lib/swift/shims/SwiftStdbool.h'
+    size:            703
+    sdk_relative:    true
+  - mtime:           1580709048000000000
+    path:            'usr/lib/swift/shims/HeapObject.h'
+    size:            8977
+    sdk_relative:    true
+  - mtime:           1580711071000000000
+    path:            'usr/lib/swift/shims/RefCount.h'
+    size:            48801
+    sdk_relative:    true
+  - mtime:           1580725044000000000
+    path:            'usr/lib/swift/shims/SwiftStddef.h'
+    size:            2018
+    sdk_relative:    true
+  - mtime:           1580710942000000000
+    path:            'usr/lib/swift/shims/System.h'
+    size:            8759
+    sdk_relative:    true
+  - mtime:           1580725046000000000
+    path:            'usr/lib/swift/shims/Target.h'
+    size:            1146
+    sdk_relative:    true
+  - mtime:           1580073612000000000
+    path:            'usr/lib/swift/shims/KeyPath.h'
+    size:            5281
+    sdk_relative:    true
+  - mtime:           1580709118000000000
+    path:            'usr/lib/swift/shims/LibcShims.h'
+    size:            5566
+    sdk_relative:    true
+  - mtime:           1580725045000000000
+    path:            'usr/lib/swift/shims/Random.h'
+    size:            1187
+    sdk_relative:    true
+  - mtime:           1580725045000000000
+    path:            'usr/lib/swift/shims/RuntimeShims.h'
+    size:            3379
+    sdk_relative:    true
+  - mtime:           1580725045000000000
+    path:            'usr/lib/swift/shims/RuntimeStubs.h'
+    size:            1453
+    sdk_relative:    true
+  - mtime:           1580725046000000000
+    path:            'usr/lib/swift/shims/ThreadLocalStorage.h'
+    size:            785
+    sdk_relative:    true
+  - mtime:           1580073612000000000
+    path:            'usr/lib/swift/shims/UnicodeShims.h'
+    size:            22761
+    sdk_relative:    true
+  - mtime:           1580068568000000000
+    path:            'usr/lib/swift/Swift.swiftmodule/arm64.swiftinterface'
+    size:            1445895
+    sdk_relative:    true
+version:         1
+...

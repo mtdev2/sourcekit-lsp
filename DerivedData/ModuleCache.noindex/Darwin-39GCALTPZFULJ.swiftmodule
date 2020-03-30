@@ -1,0 +1,1760 @@
+---
+path:            '/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule'
+dependencies:
+  - mtime:           1580726236000000000
+    path:            '/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule'
+    size:            137768
+  - mtime:           1575583788000000000
+    path:            'usr/lib/swift/shims/module.modulemap'
+    size:            1992
+    sdk_relative:    true
+  - mtime:           1580725046000000000
+    path:            'usr/lib/swift/shims/AssertionReporting.h'
+    size:            2624
+    sdk_relative:    true
+  - mtime:           1580725045000000000
+    path:            'usr/lib/swift/shims/SwiftStdint.h'
+    size:            2895
+    sdk_relative:    true
+  - mtime:           1580711071000000000
+    path:            'usr/lib/swift/shims/Visibility.h'
+    size:            5887
+    sdk_relative:    true
+  - mtime:           1580725044000000000
+    path:            'usr/lib/swift/shims/CoreFoundationShims.h'
+    size:            2449
+    sdk_relative:    true
+  - mtime:           1580725046000000000
+    path:            'usr/lib/swift/shims/FoundationShims.h'
+    size:            2239
+    sdk_relative:    true
+  - mtime:           1580725045000000000
+    path:            'usr/lib/swift/shims/GlobalObjects.h'
+    size:            2911
+    sdk_relative:    true
+  - mtime:           1580725045000000000
+    path:            'usr/lib/swift/shims/SwiftStdbool.h'
+    size:            703
+    sdk_relative:    true
+  - mtime:           1580709048000000000
+    path:            'usr/lib/swift/shims/HeapObject.h'
+    size:            8977
+    sdk_relative:    true
+  - mtime:           1580711071000000000
+    path:            'usr/lib/swift/shims/RefCount.h'
+    size:            48801
+    sdk_relative:    true
+  - mtime:           1580725044000000000
+    path:            'usr/lib/swift/shims/SwiftStddef.h'
+    size:            2018
+    sdk_relative:    true
+  - mtime:           1580710942000000000
+    path:            'usr/lib/swift/shims/System.h'
+    size:            8759
+    sdk_relative:    true
+  - mtime:           1580725046000000000
+    path:            'usr/lib/swift/shims/Target.h'
+    size:            1146
+    sdk_relative:    true
+  - mtime:           1580073612000000000
+    path:            'usr/lib/swift/shims/KeyPath.h'
+    size:            5281
+    sdk_relative:    true
+  - mtime:           1580709118000000000
+    path:            'usr/lib/swift/shims/LibcShims.h'
+    size:            5566
+    sdk_relative:    true
+  - mtime:           1580725045000000000
+    path:            'usr/lib/swift/shims/Random.h'
+    size:            1187
+    sdk_relative:    true
+  - mtime:           1580725045000000000
+    path:            'usr/lib/swift/shims/RuntimeShims.h'
+    size:            3379
+    sdk_relative:    true
+  - mtime:           1580725045000000000
+    path:            'usr/lib/swift/shims/RuntimeStubs.h'
+    size:            1453
+    sdk_relative:    true
+  - mtime:           1580725046000000000
+    path:            'usr/lib/swift/shims/ThreadLocalStorage.h'
+    size:            785
+    sdk_relative:    true
+  - mtime:           1580073612000000000
+    path:            'usr/lib/swift/shims/UnicodeShims.h'
+    size:            22761
+    sdk_relative:    true
+  - mtime:           1580068568000000000
+    path:            'usr/lib/swift/Swift.swiftmodule/arm64.swiftinterface'
+    size:            1445895
+    sdk_relative:    true
+  - mtime:           1580073558000000000
+    path:            'usr/include/module.modulemap'
+    size:            20353
+    sdk_relative:    true
+  - mtime:           1580073558000000000
+    path:            'usr/include/Darwin.apinotes'
+    size:            1133
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/cdefs.h'
+    size:            31699
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_symbol_aliasing.h'
+    size:            19845
+    sdk_relative:    true
+  - mtime:           1580725031000000000
+    path:            'usr/include/sys/_posix_availability.h'
+    size:            2905
+    sdk_relative:    true
+  - mtime:           1580711068000000000
+    path:            'usr/include/complex.h'
+    size:            6362
+    sdk_relative:    true
+  - mtime:           1580005600000000000
+    path:            'usr/include/copyfile.h'
+    size:            4336
+    sdk_relative:    true
+  - mtime:           1580709117000000000
+    path:            'usr/include/stdint.h'
+    size:            5556
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_int8_t.h'
+    size:            1413
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_int16_t.h'
+    size:            1417
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_int32_t.h'
+    size:            1417
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_int64_t.h'
+    size:            1417
+    sdk_relative:    true
+  - mtime:           1580725023000000000
+    path:            'usr/include/_types/_uint8_t.h'
+    size:            1412
+    sdk_relative:    true
+  - mtime:           1580725023000000000
+    path:            'usr/include/_types/_uint16_t.h'
+    size:            1417
+    sdk_relative:    true
+  - mtime:           1580725023000000000
+    path:            'usr/include/_types/_uint32_t.h'
+    size:            1415
+    sdk_relative:    true
+  - mtime:           1580725023000000000
+    path:            'usr/include/_types/_uint64_t.h'
+    size:            1421
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/_types.h'
+    size:            3895
+    sdk_relative:    true
+  - mtime:           1580725032000000000
+    path:            'usr/include/machine/_types.h'
+    size:            1543
+    sdk_relative:    true
+  - mtime:           1580725041000000000
+    path:            'usr/include/arm/_types.h'
+    size:            3692
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/_pthread/_pthread_types.h'
+    size:            3859
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_intptr_t.h'
+    size:            1478
+    sdk_relative:    true
+  - mtime:           1580725032000000000
+    path:            'usr/include/machine/types.h'
+    size:            1605
+    sdk_relative:    true
+  - mtime:           1580725040000000000
+    path:            'usr/include/arm/types.h'
+    size:            4000
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_u_int8_t.h'
+    size:            1421
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_u_int16_t.h'
+    size:            1433
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_u_int32_t.h'
+    size:            1425
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_u_int64_t.h'
+    size:            1425
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_uintptr_t.h'
+    size:            1430
+    sdk_relative:    true
+  - mtime:           1580725023000000000
+    path:            'usr/include/_types/_intmax_t.h'
+    size:            1579
+    sdk_relative:    true
+  - mtime:           1580725023000000000
+    path:            'usr/include/_types/_uintmax_t.h'
+    size:            1606
+    sdk_relative:    true
+  - mtime:           1580725031000000000
+    path:            'usr/include/ctype.h'
+    size:            3444
+    sdk_relative:    true
+  - mtime:           1580725023000000000
+    path:            'usr/include/_ctype.h'
+    size:            10408
+    sdk_relative:    true
+  - mtime:           1580725043000000000
+    path:            'usr/include/runetype.h'
+    size:            4198
+    sdk_relative:    true
+  - mtime:           1580725041000000000
+    path:            'usr/include/_types.h'
+    size:            2237
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_size_t.h'
+    size:            1468
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_ct_rune_t.h'
+    size:            1474
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_rune_t.h'
+    size:            1455
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_wchar_t.h'
+    size:            1547
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_wint_t.h'
+    size:            1456
+    sdk_relative:    true
+  - mtime:           1580724899000000000
+    path:            'usr/include/err.h'
+    size:            4444
+    sdk_relative:    true
+  - mtime:           1580004652000000000
+    path:            'usr/include/Availability.h'
+    size:            24932
+    sdk_relative:    true
+  - mtime:           1580718519000000000
+    path:            'usr/include/AvailabilityInternal.h'
+    size:            431917
+    sdk_relative:    true
+  - mtime:           1580725038000000000
+    path:            'usr/include/errno.h'
+    size:            1003
+    sdk_relative:    true
+  - mtime:           1580709110000000000
+    path:            'usr/include/sys/errno.h'
+    size:            12965
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_errno_t.h'
+    size:            1422
+    sdk_relative:    true
+  - mtime:           1580710927000000000
+    path:            'usr/include/fenv.h'
+    size:            18958
+    sdk_relative:    true
+  - mtime:           1580725021000000000
+    path:            'usr/include/float.h'
+    size:            4047
+    sdk_relative:    true
+  - mtime:           1580725020000000000
+    path:            'usr/include/inttypes.h'
+    size:            8821
+    sdk_relative:    true
+  - mtime:           1580725023000000000
+    path:            'usr/include/limits.h'
+    size:            5910
+    sdk_relative:    true
+  - mtime:           1580725032000000000
+    path:            'usr/include/machine/limits.h'
+    size:            340
+    sdk_relative:    true
+  - mtime:           1580709046000000000
+    path:            'usr/include/arm/limits.h'
+    size:            5122
+    sdk_relative:    true
+  - mtime:           1580725040000000000
+    path:            'usr/include/arm/_limits.h'
+    size:            217
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/syslimits.h'
+    size:            6013
+    sdk_relative:    true
+  - mtime:           1580725022000000000
+    path:            'usr/include/locale.h'
+    size:            2288
+    sdk_relative:    true
+  - mtime:           1580725024000000000
+    path:            'usr/include/_locale.h'
+    size:            2718
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_null.h'
+    size:            1429
+    sdk_relative:    true
+  - mtime:           1580724918000000000
+    path:            'usr/include/math.h'
+    size:            32279
+    sdk_relative:    true
+  - mtime:           1580725024000000000
+    path:            'usr/include/readpassphrase.h'
+    size:            1664
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/setjmp.h'
+    size:            3139
+    sdk_relative:    true
+  - mtime:           1580709103000000000
+    path:            'usr/include/signal.h'
+    size:            5442
+    sdk_relative:    true
+  - mtime:           1580724914000000000
+    path:            'usr/include/sys/signal.h'
+    size:            16777
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/appleapiopts.h'
+    size:            2065
+    sdk_relative:    true
+  - mtime:           1580725032000000000
+    path:            'usr/include/machine/signal.h'
+    size:            1543
+    sdk_relative:    true
+  - mtime:           1580725040000000000
+    path:            'usr/include/arm/signal.h'
+    size:            292
+    sdk_relative:    true
+  - mtime:           1580725032000000000
+    path:            'usr/include/machine/_mcontext.h'
+    size:            1446
+    sdk_relative:    true
+  - mtime:           1580725041000000000
+    path:            'usr/include/arm/_mcontext.h'
+    size:            2862
+    sdk_relative:    true
+  - mtime:           1580725036000000000
+    path:            'usr/include/mach/machine/_structs.h'
+    size:            1555
+    sdk_relative:    true
+  - mtime:           1580709044000000000
+    path:            'usr/include/mach/arm/_structs.h'
+    size:            23024
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_pthread/_pthread_attr_t.h'
+    size:            1528
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_sigaltstack.h'
+    size:            1992
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_ucontext.h'
+    size:            2403
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_pid_t.h'
+    size:            1458
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_sigset_t.h'
+    size:            1483
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_uid_t.h'
+    size:            1458
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_pthread/_pthread_t.h'
+    size:            1495
+    sdk_relative:    true
+  - mtime:           1580724924000000000
+    path:            'usr/include/stdio.h'
+    size:            16210
+    sdk_relative:    true
+  - mtime:           1580724900000000000
+    path:            'usr/include/_stdio.h'
+    size:            6201
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_va_list.h'
+    size:            1467
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/stdio.h'
+    size:            2206
+    sdk_relative:    true
+  - mtime:           1580725020000000000
+    path:            'usr/include/_ctermid.h'
+    size:            1068
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_off_t.h'
+    size:            1460
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_ssize_t.h'
+    size:            1473
+    sdk_relative:    true
+  - mtime:           1580725031000000000
+    path:            'usr/include/secure/_stdio.h'
+    size:            2736
+    sdk_relative:    true
+  - mtime:           1580725031000000000
+    path:            'usr/include/secure/_common.h'
+    size:            1426
+    sdk_relative:    true
+  - mtime:           1580709099000000000
+    path:            'usr/include/stdlib.h'
+    size:            14558
+    sdk_relative:    true
+  - mtime:           1580711051000000000
+    path:            'usr/include/sys/wait.h'
+    size:            10362
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_id_t.h'
+    size:            1494
+    sdk_relative:    true
+  - mtime:           1580710926000000000
+    path:            'usr/include/sys/resource.h'
+    size:            15836
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_timeval.h'
+    size:            1667
+    sdk_relative:    true
+  - mtime:           1580725032000000000
+    path:            'usr/include/machine/endian.h'
+    size:            1609
+    sdk_relative:    true
+  - mtime:           1580725040000000000
+    path:            'usr/include/arm/endian.h'
+    size:            3081
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_endian.h'
+    size:            6484
+    sdk_relative:    true
+  - mtime:           1580725042000000000
+    path:            'usr/include/libkern/_OSByteOrder.h'
+    size:            3490
+    sdk_relative:    true
+  - mtime:           1580725042000000000
+    path:            'usr/include/libkern/arm/OSByteOrder.h'
+    size:            2619
+    sdk_relative:    true
+  - mtime:           1580725041000000000
+    path:            'usr/include/arm/arch.h'
+    size:            2411
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_os_inline.h'
+    size:            1533
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/alloca.h'
+    size:            1376
+    sdk_relative:    true
+  - mtime:           1580725040000000000
+    path:            'usr/include/malloc/_malloc.h'
+    size:            2394
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_dev_t.h'
+    size:            1481
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_mode_t.h'
+    size:            1465
+    sdk_relative:    true
+  - mtime:           1580709117000000000
+    path:            'usr/include/string.h'
+    size:            7607
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_rsize_t.h'
+    size:            1471
+    sdk_relative:    true
+  - mtime:           1580709105000000000
+    path:            'usr/include/strings.h'
+    size:            4208
+    sdk_relative:    true
+  - mtime:           1580725031000000000
+    path:            'usr/include/secure/_strings.h'
+    size:            1888
+    sdk_relative:    true
+  - mtime:           1580711055000000000
+    path:            'usr/include/secure/_string.h'
+    size:            5474
+    sdk_relative:    true
+  - mtime:           1580005098000000000
+    path:            'usr/include/tgmath.h'
+    size:            30569
+    sdk_relative:    true
+  - mtime:           1580711031000000000
+    path:            'usr/include/time.h'
+    size:            8104
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_clock_t.h'
+    size:            1472
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_time_t.h'
+    size:            1468
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_timespec.h'
+    size:            1552
+    sdk_relative:    true
+  - mtime:           1580724918000000000
+    path:            'usr/include/util.h'
+    size:            4201
+    sdk_relative:    true
+  - mtime:           1580711053000000000
+    path:            'usr/include/sys/ttycom.h'
+    size:            10155
+    sdk_relative:    true
+  - mtime:           1580709040000000000
+    path:            'usr/include/sys/ioccom.h'
+    size:            4672
+    sdk_relative:    true
+  - mtime:           1580196452000000000
+    path:            'usr/include/sys/types.h'
+    size:            8340
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_u_char.h'
+    size:            1405
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_u_short.h'
+    size:            1409
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_u_int.h'
+    size:            1401
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_caddr_t.h'
+    size:            1409
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_blkcnt_t.h'
+    size:            1476
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_blksize_t.h'
+    size:            1482
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_gid_t.h'
+    size:            1438
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_in_addr_t.h'
+    size:            1508
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_in_port_t.h'
+    size:            1474
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_ino_t.h'
+    size:            1488
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_ino64_t.h'
+    size:            1502
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_key_t.h'
+    size:            1489
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_nlink_t.h'
+    size:            1483
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_useconds_t.h'
+    size:            1484
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_suseconds_t.h'
+    size:            1490
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_fd_def.h'
+    size:            3373
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_fd_setsize.h'
+    size:            1412
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_fd_set.h'
+    size:            1406
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_fd_clr.h'
+    size:            1406
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_fd_zero.h'
+    size:            1406
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_fd_isset.h'
+    size:            1412
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_fd_copy.h'
+    size:            1409
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/_pthread/_pthread_cond_t.h'
+    size:            1525
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_pthread/_pthread_condattr_t.h'
+    size:            1549
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/_pthread/_pthread_mutex_t.h'
+    size:            1526
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_pthread/_pthread_mutexattr_t.h'
+    size:            1551
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/_pthread/_pthread_once_t.h'
+    size:            1521
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/_pthread/_pthread_rwlock_t.h'
+    size:            1537
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/_pthread/_pthread_rwlockattr_t.h'
+    size:            1561
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/_pthread/_pthread_key_t.h'
+    size:            1515
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_fsblkcnt_t.h'
+    size:            1492
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_fsfilcnt_t.h'
+    size:            1492
+    sdk_relative:    true
+  - mtime:           1580709099000000000
+    path:            'usr/include/pwd.h'
+    size:            4749
+    sdk_relative:    true
+  - mtime:           1580725042000000000
+    path:            'usr/include/uuid/uuid.h'
+    size:            2756
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_uuid_t.h'
+    size:            1456
+    sdk_relative:    true
+  - mtime:           1580725038000000000
+    path:            'usr/include/termios.h'
+    size:            1199
+    sdk_relative:    true
+  - mtime:           1580709040000000000
+    path:            'usr/include/sys/termios.h'
+    size:            15306
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_posix_vdisable.h'
+    size:            1433
+    sdk_relative:    true
+  - mtime:           1580724915000000000
+    path:            'usr/include/sys/ttydefaults.h'
+    size:            5233
+    sdk_relative:    true
+  - mtime:           1580724918000000000
+    path:            'usr/include/wchar.h'
+    size:            10206
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_mbstate_t.h'
+    size:            1473
+    sdk_relative:    true
+  - mtime:           1580725023000000000
+    path:            'usr/include/_wctype.h'
+    size:            3791
+    sdk_relative:    true
+  - mtime:           1580725033000000000
+    path:            'usr/include/__wctype.h'
+    size:            2760
+    sdk_relative:    true
+  - mtime:           1580725023000000000
+    path:            'usr/include/_types/_wctype_t.h'
+    size:            1440
+    sdk_relative:    true
+  - mtime:           1580725024000000000
+    path:            'usr/include/wctype.h'
+    size:            3464
+    sdk_relative:    true
+  - mtime:           1580725023000000000
+    path:            'usr/include/_types/_wctrans_t.h'
+    size:            1446
+    sdk_relative:    true
+  - mtime:           1580725023000000000
+    path:            'usr/include/xlocale.h'
+    size:            3087
+    sdk_relative:    true
+  - mtime:           1580725039000000000
+    path:            'usr/include/_xlocale.h'
+    size:            1237
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/xlocale/_ctype.h'
+    size:            5606
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/xlocale/__wctype.h'
+    size:            3514
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/xlocale/_inttypes.h'
+    size:            1780
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/xlocale/_stdio.h'
+    size:            3534
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/xlocale/_stdlib.h'
+    size:            2708
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/xlocale/_string.h'
+    size:            1472
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/xlocale/_time.h'
+    size:            1498
+    sdk_relative:    true
+  - mtime:           1580005027000000000
+    path:            'usr/include/xlocale/_wchar.h'
+    size:            5926
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/xlocale/_wctype.h'
+    size:            2608
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/xlocale/_monetary.h'
+    size:            1316
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/xlocale/_langinfo.h'
+    size:            1218
+    sdk_relative:    true
+  - mtime:           1580725023000000000
+    path:            'usr/include/_types/_nl_item.h'
+    size:            1435
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/xlocale/_regex.h'
+    size:            1930
+    sdk_relative:    true
+  - mtime:           1580709036000000000
+    path:            'usr/include/_regex.h'
+    size:            5130
+    sdk_relative:    true
+  - mtime:           1580709045000000000
+    path:            'usr/include/xattr_flags.h'
+    size:            5976
+    sdk_relative:    true
+  - mtime:           1580725021000000000
+    path:            'usr/include/aio.h'
+    size:            1214
+    sdk_relative:    true
+  - mtime:           1580709106000000000
+    path:            'usr/include/sys/aio.h'
+    size:            10129
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_o_sync.h'
+    size:            1439
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_o_dsync.h'
+    size:            1441
+    sdk_relative:    true
+  - mtime:           1580005026000000000
+    path:            'usr/include/arpa/inet.h'
+    size:            4436
+    sdk_relative:    true
+  - mtime:           1580709034000000000
+    path:            'usr/include/netinet/in.h'
+    size:            31473
+    sdk_relative:    true
+  - mtime:           1580710926000000000
+    path:            'usr/include/sys/socket.h'
+    size:            31533
+    sdk_relative:    true
+  - mtime:           1580725032000000000
+    path:            'usr/include/machine/_param.h'
+    size:            1443
+    sdk_relative:    true
+  - mtime:           1580725040000000000
+    path:            'usr/include/arm/_param.h'
+    size:            754
+    sdk_relative:    true
+  - mtime:           1580709028000000000
+    path:            'usr/include/net/net_kev.h'
+    size:            4734
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_sa_family_t.h'
+    size:            1482
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_socklen_t.h'
+    size:            1465
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_iovec_t.h'
+    size:            1601
+    sdk_relative:    true
+  - mtime:           1580711066000000000
+    path:            'usr/include/netinet6/in6.h'
+    size:            26530
+    sdk_relative:    true
+  - mtime:           1580725023000000000
+    path:            'usr/include/cpio.h'
+    size:            2466
+    sdk_relative:    true
+  - mtime:           1580709033000000000
+    path:            'usr/include/dirent.h'
+    size:            7108
+    sdk_relative:    true
+  - mtime:           1580196455000000000
+    path:            'usr/include/sys/dirent.h'
+    size:            5582
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/dlfcn.h'
+    size:            3196
+    sdk_relative:    true
+  - mtime:           1580725024000000000
+    path:            'usr/include/fcntl.h'
+    size:            1002
+    sdk_relative:    true
+  - mtime:           1580196455000000000
+    path:            'usr/include/sys/fcntl.h'
+    size:            22423
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_seek_set.h'
+    size:            2053
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_s_ifmt.h'
+    size:            3677
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_filesec_t.h'
+    size:            1440
+    sdk_relative:    true
+  - mtime:           1580725022000000000
+    path:            'usr/include/fmtmsg.h'
+    size:            2831
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/fnmatch.h'
+    size:            3602
+    sdk_relative:    true
+  - mtime:           1580725020000000000
+    path:            'usr/include/ftw.h'
+    size:            2291
+    sdk_relative:    true
+  - mtime:           1580724914000000000
+    path:            'usr/include/sys/stat.h'
+    size:            20088
+    sdk_relative:    true
+  - mtime:           1580005027000000000
+    path:            'usr/include/glob.h'
+    size:            5396
+    sdk_relative:    true
+  - mtime:           1580725031000000000
+    path:            'usr/include/grp.h'
+    size:            3574
+    sdk_relative:    true
+  - mtime:           1580709110000000000
+    path:            'usr/include/iconv.h'
+    size:            8295
+    sdk_relative:    true
+  - mtime:           1580725043000000000
+    path:            'usr/include/ifaddrs.h'
+    size:            2381
+    sdk_relative:    true
+  - mtime:           1580004652000000000
+    path:            'usr/include/os/availability.h'
+    size:            7035
+    sdk_relative:    true
+  - mtime:           1580196451000000000
+    path:            'usr/include/sys/ioctl.h'
+    size:            4485
+    sdk_relative:    true
+  - mtime:           1580724915000000000
+    path:            'usr/include/sys/filio.h'
+    size:            4306
+    sdk_relative:    true
+  - mtime:           1580711046000000000
+    path:            'usr/include/sys/sockio.h'
+    size:            9642
+    sdk_relative:    true
+  - mtime:           1580725023000000000
+    path:            'usr/include/langinfo.h'
+    size:            3820
+    sdk_relative:    true
+  - mtime:           1580725025000000000
+    path:            'usr/include/libgen.h'
+    size:            2326
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/monetary.h'
+    size:            1826
+    sdk_relative:    true
+  - mtime:           1580711069000000000
+    path:            'usr/include/ndbm.h'
+    size:            4464
+    sdk_relative:    true
+  - mtime:           1580709042000000000
+    path:            'usr/include/netdb.h'
+    size:            12820
+    sdk_relative:    true
+  - mtime:           1580196449000000000
+    path:            'usr/include/net/if_dl.h'
+    size:            5197
+    sdk_relative:    true
+  - mtime:           1580709028000000000
+    path:            'usr/include/net/if.h'
+    size:            17206
+    sdk_relative:    true
+  - mtime:           1580709099000000000
+    path:            'usr/include/net/if_var.h'
+    size:            10318
+    sdk_relative:    true
+  - mtime:           1580711045000000000
+    path:            'usr/include/sys/time.h'
+    size:            8596
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_timeval64.h'
+    size:            1590
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/_select.h'
+    size:            2288
+    sdk_relative:    true
+  - mtime:           1580709041000000000
+    path:            'usr/include/sys/queue.h'
+    size:            42618
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_timeval32.h'
+    size:            1618
+    sdk_relative:    true
+  - mtime:           1580725021000000000
+    path:            'usr/include/net/if_types.h'
+    size:            7508
+    sdk_relative:    true
+  - mtime:           1580196450000000000
+    path:            'usr/include/netinet/tcp.h'
+    size:            13215
+    sdk_relative:    true
+  - mtime:           1580725032000000000
+    path:            'usr/include/nl_types.h'
+    size:            3457
+    sdk_relative:    true
+  - mtime:           1580725039000000000
+    path:            'usr/include/poll.h'
+    size:            1004
+    sdk_relative:    true
+  - mtime:           1580196456000000000
+    path:            'usr/include/sys/poll.h'
+    size:            4876
+    sdk_relative:    true
+  - mtime:           1580004865000000000
+    path:            'usr/include/pthread/pthread.h'
+    size:            18818
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/pthread/pthread_impl.h'
+    size:            1977
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/pthread/sched.h'
+    size:            1376
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/pthread/qos.h'
+    size:            10256
+    sdk_relative:    true
+  - mtime:           1580725031000000000
+    path:            'usr/include/sys/qos.h'
+    size:            7884
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_mach_port_t.h'
+    size:            2098
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/pthread_spis.h'
+    size:            3592
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/pthread/spawn.h'
+    size:            2761
+    sdk_relative:    true
+  - mtime:           1580709103000000000
+    path:            'usr/include/spawn.h'
+    size:            6969
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/spawn.h'
+    size:            3250
+    sdk_relative:    true
+  - mtime:           1580709112000000000
+    path:            'usr/include/mach/exception_types.h'
+    size:            7887
+    sdk_relative:    true
+  - mtime:           1580725037000000000
+    path:            'usr/include/mach/machine/exception.h'
+    size:            1564
+    sdk_relative:    true
+  - mtime:           1580725038000000000
+    path:            'usr/include/mach/arm/exception.h'
+    size:            2779
+    sdk_relative:    true
+  - mtime:           1580710929000000000
+    path:            'usr/include/mach/port.h'
+    size:            17423
+    sdk_relative:    true
+  - mtime:           1580725035000000000
+    path:            'usr/include/mach/boolean.h'
+    size:            2823
+    sdk_relative:    true
+  - mtime:           1580725036000000000
+    path:            'usr/include/mach/machine/boolean.h'
+    size:            1556
+    sdk_relative:    true
+  - mtime:           1580725037000000000
+    path:            'usr/include/mach/arm/boolean.h'
+    size:            2576
+    sdk_relative:    true
+  - mtime:           1580725036000000000
+    path:            'usr/include/mach/machine/vm_types.h'
+    size:            1560
+    sdk_relative:    true
+  - mtime:           1580711062000000000
+    path:            'usr/include/mach/arm/vm_types.h'
+    size:            5482
+    sdk_relative:    true
+  - mtime:           1580725034000000000
+    path:            'usr/include/mach/thread_status.h'
+    size:            3671
+    sdk_relative:    true
+  - mtime:           1580725036000000000
+    path:            'usr/include/mach/machine/thread_status.h'
+    size:            1580
+    sdk_relative:    true
+  - mtime:           1580711062000000000
+    path:            'usr/include/mach/arm/thread_status.h'
+    size:            8864
+    sdk_relative:    true
+  - mtime:           1580709043000000000
+    path:            'usr/include/mach/message.h'
+    size:            34205
+    sdk_relative:    true
+  - mtime:           1580725034000000000
+    path:            'usr/include/mach/kern_return.h'
+    size:            9620
+    sdk_relative:    true
+  - mtime:           1580725036000000000
+    path:            'usr/include/mach/machine/kern_return.h'
+    size:            1572
+    sdk_relative:    true
+  - mtime:           1580725037000000000
+    path:            'usr/include/mach/arm/kern_return.h'
+    size:            2727
+    sdk_relative:    true
+  - mtime:           1580725037000000000
+    path:            'usr/include/mach/vm_types.h'
+    size:            3197
+    sdk_relative:    true
+  - mtime:           1580725037000000000
+    path:            'usr/include/mach/arm/thread_state.h'
+    size:            1729
+    sdk_relative:    true
+  - mtime:           1580725036000000000
+    path:            'usr/include/mach/machine/thread_state.h'
+    size:            1576
+    sdk_relative:    true
+  - mtime:           1580725034000000000
+    path:            'usr/include/mach/machine.h'
+    size:            15496
+    sdk_relative:    true
+  - mtime:           1580724907000000000
+    path:            'usr/include/regex.h'
+    size:            9422
+    sdk_relative:    true
+  - mtime:           1580725042000000000
+    path:            'usr/include/search.h'
+    size:            1373
+    sdk_relative:    true
+  - mtime:           1580725020000000000
+    path:            'usr/include/semaphore.h'
+    size:            1135
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/sys/semaphore.h'
+    size:            2095
+    sdk_relative:    true
+  - mtime:           1580709039000000000
+    path:            'usr/include/sys/ipc.h'
+    size:            6912
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/mman.h'
+    size:            10046
+    sdk_relative:    true
+  - mtime:           1580709109000000000
+    path:            'usr/include/sys/msg.h'
+    size:            8872
+    sdk_relative:    true
+  - mtime:           1580196457000000000
+    path:            'usr/include/sys/select.h'
+    size:            5366
+    sdk_relative:    true
+  - mtime:           1580196452000000000
+    path:            'usr/include/sys/sem.h'
+    size:            7291
+    sdk_relative:    true
+  - mtime:           1580196456000000000
+    path:            'usr/include/sys/shm.h'
+    size:            7378
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/statvfs.h'
+    size:            2149
+    sdk_relative:    true
+  - mtime:           1580724911000000000
+    path:            'usr/include/sys/times.h'
+    size:            4239
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/_types/_offsetof.h'
+    size:            1418
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_fsobj_id_t.h'
+    size:            1528
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_ucontext64.h'
+    size:            2303
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/_types/_fsid_t.h'
+    size:            1494
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_ptrdiff_t.h'
+    size:            1473
+    sdk_relative:    true
+  - mtime:           1580725028000000000
+    path:            'usr/include/sys/_types/_guid_t.h'
+    size:            1642
+    sdk_relative:    true
+  - mtime:           1580710919000000000
+    path:            'usr/include/sys/uio.h'
+    size:            4137
+    sdk_relative:    true
+  - mtime:           1580710925000000000
+    path:            'usr/include/sys/un.h'
+    size:            4592
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/utsname.h'
+    size:            3879
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/xattr.h'
+    size:            3090
+    sdk_relative:    true
+  - mtime:           1580725025000000000
+    path:            'usr/include/syslog.h'
+    size:            1004
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/syslog.h'
+    size:            9812
+    sdk_relative:    true
+  - mtime:           1580725024000000000
+    path:            'usr/include/tar.h'
+    size:            3146
+    sdk_relative:    true
+  - mtime:           1580725020000000000
+    path:            'usr/include/ulimit.h'
+    size:            1625
+    sdk_relative:    true
+  - mtime:           1580005026000000000
+    path:            'usr/include/unistd.h'
+    size:            28863
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/unistd.h'
+    size:            9527
+    sdk_relative:    true
+  - mtime:           1580725033000000000
+    path:            'usr/include/gethostuuid.h'
+    size:            1878
+    sdk_relative:    true
+  - mtime:           1580725020000000000
+    path:            'usr/include/utime.h'
+    size:            3164
+    sdk_relative:    true
+  - mtime:           1580725043000000000
+    path:            'usr/include/utmpx.h'
+    size:            6414
+    sdk_relative:    true
+  - mtime:           1580725032000000000
+    path:            'usr/include/wordexp.h'
+    size:            3085
+    sdk_relative:    true
+  - mtime:           1580004652000000000
+    path:            'usr/include/AvailabilityMacros.h'
+    size:            211345
+    sdk_relative:    true
+  - mtime:           1580709042000000000
+    path:            'usr/include/ConditionalMacros.h'
+    size:            26422
+    sdk_relative:    true
+  - mtime:           1580725224000000000
+    path:            'usr/include/TargetConditionals.h'
+    size:            20481
+    sdk_relative:    true
+  - mtime:           1580725026000000000
+    path:            'usr/include/getopt.h'
+    size:            3260
+    sdk_relative:    true
+  - mtime:           1580004652000000000
+    path:            'usr/include/AssertMacros.h'
+    size:            59503
+    sdk_relative:    true
+  - mtime:           1580004652000000000
+    path:            'usr/include/MacTypes.h'
+    size:            31737
+    sdk_relative:    true
+  - mtime:           1580724922000000000
+    path:            'usr/include/mach/mach.h'
+    size:            7342
+    sdk_relative:    true
+  - mtime:           1580725038000000000
+    path:            'usr/include/mach/std_types.h'
+    size:            2741
+    sdk_relative:    true
+  - mtime:           1580724919000000000
+    path:            'usr/include/mach/mach_types.h'
+    size:            9574
+    sdk_relative:    true
+  - mtime:           1580711058000000000
+    path:            'usr/include/mach/host_info.h'
+    size:            10486
+    sdk_relative:    true
+  - mtime:           1580711063000000000
+    path:            'usr/include/mach/vm_statistics.h'
+    size:            18673
+    sdk_relative:    true
+  - mtime:           1580725038000000000
+    path:            'usr/include/mach/time_value.h'
+    size:            3570
+    sdk_relative:    true
+  - mtime:           1580725038000000000
+    path:            'usr/include/mach/host_notify.h'
+    size:            1672
+    sdk_relative:    true
+  - mtime:           1580196459000000000
+    path:            'usr/include/mach/host_special_ports.h'
+    size:            11841
+    sdk_relative:    true
+  - mtime:           1580196459000000000
+    path:            'usr/include/mach/memory_object_types.h'
+    size:            10858
+    sdk_relative:    true
+  - mtime:           1580709043000000000
+    path:            'usr/include/mach/vm_prot.h'
+    size:            5294
+    sdk_relative:    true
+  - mtime:           1580725037000000000
+    path:            'usr/include/mach/vm_sync.h'
+    size:            3047
+    sdk_relative:    true
+  - mtime:           1580709113000000000
+    path:            'usr/include/mach/mach_voucher_types.h'
+    size:            10310
+    sdk_relative:    true
+  - mtime:           1580724919000000000
+    path:            'usr/include/mach/processor_info.h'
+    size:            6001
+    sdk_relative:    true
+  - mtime:           1580725036000000000
+    path:            'usr/include/mach/machine/processor_info.h'
+    size:            1584
+    sdk_relative:    true
+  - mtime:           1580725037000000000
+    path:            'usr/include/mach/arm/processor_info.h'
+    size:            2678
+    sdk_relative:    true
+  - mtime:           1580725035000000000
+    path:            'usr/include/mach/task_info.h'
+    size:            21520
+    sdk_relative:    true
+  - mtime:           1580196458000000000
+    path:            'usr/include/mach/policy.h'
+    size:            7826
+    sdk_relative:    true
+  - mtime:           1580725037000000000
+    path:            'usr/include/mach/task_inspect.h'
+    size:            2006
+    sdk_relative:    true
+  - mtime:           1580709112000000000
+    path:            'usr/include/mach/task_policy.h'
+    size:            7176
+    sdk_relative:    true
+  - mtime:           1580710934000000000
+    path:            'usr/include/mach/task_special_ports.h'
+    size:            4855
+    sdk_relative:    true
+  - mtime:           1580196459000000000
+    path:            'usr/include/mach/thread_info.h'
+    size:            8114
+    sdk_relative:    true
+  - mtime:           1580711058000000000
+    path:            'usr/include/mach/thread_policy.h'
+    size:            9027
+    sdk_relative:    true
+  - mtime:           1580725038000000000
+    path:            'usr/include/mach/thread_special_ports.h'
+    size:            3175
+    sdk_relative:    true
+  - mtime:           1580710933000000000
+    path:            'usr/include/mach/clock_types.h'
+    size:            5469
+    sdk_relative:    true
+  - mtime:           1580725034000000000
+    path:            'usr/include/mach/vm_attributes.h'
+    size:            3812
+    sdk_relative:    true
+  - mtime:           1580725033000000000
+    path:            'usr/include/mach/vm_inherit.h'
+    size:            3254
+    sdk_relative:    true
+  - mtime:           1580709115000000000
+    path:            'usr/include/mach/vm_purgable.h'
+    size:            7241
+    sdk_relative:    true
+  - mtime:           1580725034000000000
+    path:            'usr/include/mach/vm_behavior.h'
+    size:            3046
+    sdk_relative:    true
+  - mtime:           1580711057000000000
+    path:            'usr/include/mach/vm_region.h'
+    size:            13538
+    sdk_relative:    true
+  - mtime:           1580725036000000000
+    path:            'usr/include/mach/machine/vm_param.h'
+    size:            1560
+    sdk_relative:    true
+  - mtime:           1580725037000000000
+    path:            'usr/include/mach/arm/vm_param.h'
+    size:            3162
+    sdk_relative:    true
+  - mtime:           1580725038000000000
+    path:            'usr/include/mach/vm_page_size.h'
+    size:            2556
+    sdk_relative:    true
+  - mtime:           1580709113000000000
+    path:            'usr/include/mach/kmod.h'
+    size:            6533
+    sdk_relative:    true
+  - mtime:           1580725036000000000
+    path:            'usr/include/mach/dyld_kernel.h'
+    size:            2623
+    sdk_relative:    true
+  - mtime:           1580725036000000000
+    path:            'usr/include/mach/mach_interface.h'
+    size:            2062
+    sdk_relative:    true
+  - mtime:           1580196472000000000
+    path:            'usr/include/mach/clock_priv.h'
+    size:            5163
+    sdk_relative:    true
+  - mtime:           1580196459000000000
+    path:            'usr/include/mach/ndr.h'
+    size:            6775
+    sdk_relative:    true
+  - mtime:           1580709047000000000
+    path:            'usr/include/libkern/OSByteOrder.h'
+    size:            10500
+    sdk_relative:    true
+  - mtime:           1580709113000000000
+    path:            'usr/include/mach/notify.h'
+    size:            5121
+    sdk_relative:    true
+  - mtime:           1580196458000000000
+    path:            'usr/include/mach/mig_errors.h'
+    size:            4614
+    sdk_relative:    true
+  - mtime:           1580725034000000000
+    path:            'usr/include/mach/mig.h'
+    size:            6329
+    sdk_relative:    true
+  - mtime:           1580709113000000000
+    path:            'usr/include/mach/host_priv.h'
+    size:            28317
+    sdk_relative:    true
+  - mtime:           1580725024000000000
+    path:            'usr/include/mach_debug/mach_debug_types.h'
+    size:            3391
+    sdk_relative:    true
+  - mtime:           1580711040000000000
+    path:            'usr/include/mach_debug/ipc_info.h'
+    size:            4466
+    sdk_relative:    true
+  - mtime:           1580196450000000000
+    path:            'usr/include/mach_debug/vm_info.h'
+    size:            6030
+    sdk_relative:    true
+  - mtime:           1580709033000000000
+    path:            'usr/include/mach_debug/zone_info.h'
+    size:            7423
+    sdk_relative:    true
+  - mtime:           1580725024000000000
+    path:            'usr/include/mach_debug/page_info.h'
+    size:            2577
+    sdk_relative:    true
+  - mtime:           1580725024000000000
+    path:            'usr/include/mach_debug/hash_info.h'
+    size:            2844
+    sdk_relative:    true
+  - mtime:           1580725024000000000
+    path:            'usr/include/mach_debug/lockgroup_info.h'
+    size:            2681
+    sdk_relative:    true
+  - mtime:           1580724919000000000
+    path:            'usr/include/mach/host_security.h'
+    size:            6216
+    sdk_relative:    true
+  - mtime:           1580195315000000000
+    path:            'usr/include/mach/lock_set.h'
+    size:            7997
+    sdk_relative:    true
+  - mtime:           1580709042000000000
+    path:            'usr/include/mach/processor.h'
+    size:            8897
+    sdk_relative:    true
+  - mtime:           1580724922000000000
+    path:            'usr/include/mach/processor_set.h'
+    size:            13616
+    sdk_relative:    true
+  - mtime:           1580725033000000000
+    path:            'usr/include/mach/semaphore.h'
+    size:            2632
+    sdk_relative:    true
+  - mtime:           1580725035000000000
+    path:            'usr/include/mach/sync_policy.h'
+    size:            1857
+    sdk_relative:    true
+  - mtime:           1580709042000000000
+    path:            'usr/include/mach/task.h'
+    size:            58967
+    sdk_relative:    true
+  - mtime:           1580711059000000000
+    path:            'usr/include/mach/thread_act.h'
+    size:            31822
+    sdk_relative:    true
+  - mtime:           1580711059000000000
+    path:            'usr/include/mach/vm_map.h'
+    size:            32498
+    sdk_relative:    true
+  - mtime:           1580195315000000000
+    path:            'usr/include/mach/mach_port.h'
+    size:            42819
+    sdk_relative:    true
+  - mtime:           1580725035000000000
+    path:            'usr/include/mach/mach_init.h'
+    size:            3648
+    sdk_relative:    true
+  - mtime:           1580724922000000000
+    path:            'usr/include/mach/mach_traps.h'
+    size:            7812
+    sdk_relative:    true
+  - mtime:           1580709043000000000
+    path:            'usr/include/mach/mach_host.h'
+    size:            32644
+    sdk_relative:    true
+  - mtime:           1580725037000000000
+    path:            'usr/include/mach/thread_switch.h'
+    size:            2882
+    sdk_relative:    true
+  - mtime:           1580710934000000000
+    path:            'usr/include/mach/rpc.h'
+    size:            5195
+    sdk_relative:    true
+  - mtime:           1580725036000000000
+    path:            'usr/include/mach/machine/rpc.h'
+    size:            1541
+    sdk_relative:    true
+  - mtime:           1580725037000000000
+    path:            'usr/include/mach/arm/rpc.h'
+    size:            1433
+    sdk_relative:    true
+  - mtime:           1580725033000000000
+    path:            'usr/include/mach/mach_error.h'
+    size:            3068
+    sdk_relative:    true
+  - mtime:           1580709112000000000
+    path:            'usr/include/mach/error.h'
+    size:            4181
+    sdk_relative:    true
+  - mtime:           1580725035000000000
+    path:            'usr/include/mach/bootstrap.h'
+    size:            1504
+    sdk_relative:    true
+  - mtime:           1580196473000000000
+    path:            'usr/include/mach/clock.h'
+    size:            6105
+    sdk_relative:    true
+  - mtime:           1580195315000000000
+    path:            'usr/include/mach/clock_reply.h'
+    size:            4324
+    sdk_relative:    true
+  - mtime:           1580711058000000000
+    path:            'usr/include/mach/exc.h'
+    size:            7276
+    sdk_relative:    true
+  - mtime:           1580725038000000000
+    path:            'usr/include/mach/exception.h'
+    size:            2521
+    sdk_relative:    true
+  - mtime:           1580725035000000000
+    path:            'usr/include/mach/host_reboot.h'
+    size:            1568
+    sdk_relative:    true
+  - mtime:           1580725036000000000
+    path:            'usr/include/mach/mach_param.h'
+    size:            2776
+    sdk_relative:    true
+  - mtime:           1580725037000000000
+    path:            'usr/include/mach/mach_syscalls.h'
+    size:            1492
+    sdk_relative:    true
+  - mtime:           1580725034000000000
+    path:            'usr/include/mach/mach_time.h'
+    size:            2516
+    sdk_relative:    true
+  - mtime:           1580725034000000000
+    path:            'usr/include/mach/port_obj.h'
+    size:            3710
+    sdk_relative:    true
+  - mtime:           1580725034000000000
+    path:            'usr/include/mach/sync.h'
+    size:            1621
+    sdk_relative:    true
+  - mtime:           1580725035000000000
+    path:            'usr/include/mach/vm_param.h'
+    size:            2687
+    sdk_relative:    true
+  - mtime:           1580725036000000000
+    path:            'usr/include/mach/vm_task.h'
+    size:            1543
+    sdk_relative:    true
+  - mtime:           1580725024000000000
+    path:            'usr/include/mach_debug/mach_debug.h'
+    size:            1945
+    sdk_relative:    true
+  - mtime:           1580725042000000000
+    path:            'usr/include/libkern/OSAtomic.h'
+    size:            1651
+    sdk_relative:    true
+  - mtime:           1580709047000000000
+    path:            'usr/include/libkern/OSAtomicDeprecated.h'
+    size:            43096
+    sdk_relative:    true
+  - mtime:           1580724926000000000
+    path:            'usr/include/libkern/OSSpinLockDeprecated.h'
+    size:            6687
+    sdk_relative:    true
+  - mtime:           1580709117000000000
+    path:            'usr/include/libkern/OSAtomicQueue.h'
+    size:            6660
+    sdk_relative:    true
+  - mtime:           1580725039000000000
+    path:            'usr/include/os/base.h'
+    size:            10561
+    sdk_relative:    true
+  - mtime:           1580711063000000000
+    path:            'usr/include/os/lock.h'
+    size:            5506
+    sdk_relative:    true
+  - mtime:           1580711065000000000
+    path:            'usr/include/malloc/malloc.h'
+    size:            16887
+    sdk_relative:    true
+  - mtime:           1580725032000000000
+    path:            'usr/include/machine/param.h'
+    size:            1605
+    sdk_relative:    true
+  - mtime:           1580725040000000000
+    path:            'usr/include/arm/param.h'
+    size:            5668
+    sdk_relative:    true
+  - mtime:           1580725032000000000
+    path:            'usr/include/Block.h'
+    size:            1775
+    sdk_relative:    true
+  - mtime:           1580710914000000000
+    path:            'usr/include/bsm/audit.h'
+    size:            11799
+    sdk_relative:    true
+  - mtime:           1580711053000000000
+    path:            'usr/include/sys/param.h'
+    size:            10686
+    sdk_relative:    true
+  - mtime:           1580709104000000000
+    path:            'usr/include/bsm/audit_uevents.h'
+    size:            5402
+    sdk_relative:    true
+  - mtime:           1580005027000000000
+    path:            'usr/include/sys/acl.h'
+    size:            8682
+    sdk_relative:    true
+  - mtime:           1580711054000000000
+    path:            'usr/include/sys/kauth.h'
+    size:            16440
+    sdk_relative:    true
+  - mtime:           1580196452000000000
+    path:            'usr/include/sys/attr.h'
+    size:            25046
+    sdk_relative:    true
+  - mtime:           1580709040000000000
+    path:            'usr/include/sys/ucred.h'
+    size:            4845
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/clonefile.h'
+    size:            2198
+    sdk_relative:    true
+  - mtime:           1580709106000000000
+    path:            'usr/include/sys/event.h'
+    size:            17693
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/file.h'
+    size:            3719
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/kdebug_signpost.h'
+    size:            2393
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/lctx.h'
+    size:            436
+    sdk_relative:    true
+  - mtime:           1580725029000000000
+    path:            'usr/include/sys/lock.h'
+    size:            3612
+    sdk_relative:    true
+  - mtime:           1580709040000000000
+    path:            'usr/include/sys/mount.h'
+    size:            18789
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/paths.h'
+    size:            1752
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/proc.h'
+    size:            11533
+    sdk_relative:    true
+  - mtime:           1580725027000000000
+    path:            'usr/include/sys/quota.h'
+    size:            9090
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/rbtree.h'
+    size:            4057
+    sdk_relative:    true
+  - mtime:           1580725031000000000
+    path:            'usr/include/sys/syscall.h'
+    size:            18023
+    sdk_relative:    true
+  - mtime:           1580711053000000000
+    path:            'usr/include/sys/sysctl.h'
+    size:            34531
+    sdk_relative:    true
+  - mtime:           1580725030000000000
+    path:            'usr/include/sys/vm.h'
+    size:            3775
+    sdk_relative:    true
+  - mtime:           1580709106000000000
+    path:            'usr/include/sys/timeb.h'
+    size:            4307
+    sdk_relative:    true
+  - mtime:           1580725031000000000
+    path:            'usr/include/sys/ucontext.h'
+    size:            1604
+    sdk_relative:    true
+  - mtime:           1580724910000000000
+    path:            'usr/include/architecture/byte_order.h'
+    size:            8024
+    sdk_relative:    true
+  - mtime:           1580709047000000000
+    path:            'usr/include/sysexits.h'
+    size:            5472
+    sdk_relative:    true
+  - mtime:           1580725044000000000
+    path:            'usr/lib/swift/shims/LibcOverlayShims.h'
+    size:            3314
+    sdk_relative:    true
+  - mtime:           1580083594000000000
+    path:            'usr/lib/swift/Darwin.swiftmodule/arm64.swiftinterface'
+    size:            24388
+    sdk_relative:    true
+version:         1
+...
