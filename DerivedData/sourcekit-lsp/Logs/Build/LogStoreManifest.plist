@@ -5,6 +5,75 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>A345E2C6-9113-4468-BF37-4BB65753938C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A345E2C6-9113-4468-BF37-4BB65753938C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sourcekit-lsp</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SourceKitLSP-Package</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze SourceKitLSP-Package</string>
+			<key>timeStartedRecording</key>
+			<real>607293449.88960397</real>
+			<key>timeStoppedRecording</key>
+			<real>607293452.86608195</real>
+			<key>title</key>
+			<string>Analyze SourceKitLSP-Package</string>
+			<key>uniqueIdentifier</key>
+			<string>A345E2C6-9113-4468-BF37-4BB65753938C</string>
+		</dict>
+		<key>CB4DC6BE-D8A6-458D-92C1-4C8EC83F0392</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CB4DC6BE-D8A6-458D-92C1-4C8EC83F0392.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sourcekit-lsp</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SourceKitLSP-Package</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze SourceKitLSP-Package</string>
+			<key>timeStartedRecording</key>
+			<real>607293265.74109805</real>
+			<key>timeStoppedRecording</key>
+			<real>607293268.29668105</real>
+			<key>title</key>
+			<string>Analyze SourceKitLSP-Package</string>
+			<key>uniqueIdentifier</key>
+			<string>CB4DC6BE-D8A6-458D-92C1-4C8EC83F0392</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
